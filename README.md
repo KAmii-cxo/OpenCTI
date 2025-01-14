@@ -118,11 +118,11 @@ Widgets on the dashboard showcase the current state of entities ingested on the 
 
 ![image](https://github.com/user-attachments/assets/09eb60c5-2196-495e-9d54-6bea1ec368df)
 
-Exercise
+## Exercise
  - The group that use 4H RAT Malware is PutterPanda
  - The kill-chain phase linked with the Command-Line Interface Attack is execution-ics.
 	
-**General Tabs Navigation**
+## General Tabs Navigation
 
  - We use Cobalt Strike malware for this walkthrough
 		
